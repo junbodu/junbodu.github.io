@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Teaching/
+permalink: /teaching/
 title: Teaching
 description: Course materials and resources for classes I have TAed in the past.
 nav: true
