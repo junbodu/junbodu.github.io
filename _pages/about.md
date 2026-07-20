@@ -1,8 +1,8 @@
 ---
-layout: about
-title: about
+layout: page
+title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: CS PhD @ UIUC
 
 profile:
   align: right
@@ -17,14 +17,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: false 
+  enabled: true 
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! My name is Junbo (Timothy Du) and I am CS PhD student at the University of Illinois Urbana-Champaign.
+Hi! My name is Junbo (Timothy) Du and I am CS PhD student at the University of Illinois Urbana-Champaign.
