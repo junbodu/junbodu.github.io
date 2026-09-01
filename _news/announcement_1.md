@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be starting my PhD at the University of Illinois Urbana-Champaign!
+I will be starting my PhD at the University of Illinois Urbana-Champaign advised by Professor Yongjoo Park!
