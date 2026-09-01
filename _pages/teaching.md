@@ -7,6 +7,9 @@ nav: true
 nav_order: 3
 ---
 
-TBA
+## Fall 2026: [CS340](https://cs340-schatz.com/)
+
+
+
 
 
